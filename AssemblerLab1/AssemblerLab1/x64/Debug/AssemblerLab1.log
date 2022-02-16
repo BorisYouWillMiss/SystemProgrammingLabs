@@ -1,0 +1,29 @@
+﻿  AssemblerLab1.cpp
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(8,3): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(9,4): error C2065: mov: необъявленный идентификатор
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(9,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(9,8): error C2065: eax: необъявленный идентификатор
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(10,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(10,4): error C2065: add: необъявленный идентификатор
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(10,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(10,8): error C2065: eax: необъявленный идентификатор
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(11,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(11,4): error C2065: mov: необъявленный идентификатор
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(11,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "c"
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(11,11): error C2065: eax: необъявленный идентификатор
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(12,3): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+  OperationClass.cpp
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(8,3): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(9,4): error C2065: mov: необъявленный идентификатор
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(9,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(9,8): error C2065: eax: необъявленный идентификатор
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(10,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(10,4): error C2065: add: необъявленный идентификатор
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(10,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(10,8): error C2065: eax: необъявленный идентификатор
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(11,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(11,4): error C2065: mov: необъявленный идентификатор
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(11,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "c"
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(11,11): error C2065: eax: необъявленный идентификатор
+C:\Users\Vadim\source\repos\AssemblerLab1\AssemblerLab1\OperationClass.h(12,3): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+  Создание кода...

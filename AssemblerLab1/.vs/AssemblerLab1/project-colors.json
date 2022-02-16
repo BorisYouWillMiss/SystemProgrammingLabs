@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5042a6e5-1dd8-48f3-ba65-d94ce3c7291f": {
+      "ProjectGuid": "5042a6e5-1dd8-48f3-ba65-d94ce3c7291f",
+      "DisplayName": "AssemblerLab1",
+      "ColorIndex": 0
+    },
+    "6f7ada6f-b37b-4e23-bb46-f2c5ce265644": {
+      "ProjectGuid": "6f7ada6f-b37b-4e23-bb46-f2c5ce265644",
+      "DisplayName": "AssemblerLab1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
