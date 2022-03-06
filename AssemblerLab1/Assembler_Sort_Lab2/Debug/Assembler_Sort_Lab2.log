@@ -1,4 +1,6 @@
 ﻿  Assembler_Sort_Lab2.cpp
 C:\SD\SystemProgrammingLabs\AssemblerLab1\Assembler_Sort_Lab2\Assembler_Sort_Lab2.cpp(34,1): warning C4102: L2: неиспользованная метка
-C:\SD\SystemProgrammingLabs\AssemblerLab1\Assembler_Sort_Lab2\Assembler_Sort_Lab2.cpp(65,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\SD\SystemProgrammingLabs\AssemblerLab1\Assembler_Sort_Lab2\Assembler_Sort_Lab2.cpp(92,13): warning C4102: IF: неиспользованная метка
+C:\SD\SystemProgrammingLabs\AssemblerLab1\Assembler_Sort_Lab2\Assembler_Sort_Lab2.cpp(97,1): warning C4102: SAVE: неиспользованная метка
+C:\SD\SystemProgrammingLabs\AssemblerLab1\Assembler_Sort_Lab2\Assembler_Sort_Lab2.cpp(150,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   Assembler_Sort_Lab2.vcxproj -> C:\SD\SystemProgrammingLabs\AssemblerLab1\Debug\Assembler_Sort_Lab2.exe
