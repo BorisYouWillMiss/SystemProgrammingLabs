@@ -1,0 +1,15 @@
+C:\SD\SystemProgrammingLabs\AssemblerLab1\AssemblerSortLab2\bin\Debug\net6.0\AssemblerSortLab2.exe
+C:\SD\SystemProgrammingLabs\AssemblerLab1\AssemblerSortLab2\bin\Debug\net6.0\AssemblerSortLab2.deps.json
+C:\SD\SystemProgrammingLabs\AssemblerLab1\AssemblerSortLab2\bin\Debug\net6.0\AssemblerSortLab2.runtimeconfig.json
+C:\SD\SystemProgrammingLabs\AssemblerLab1\AssemblerSortLab2\bin\Debug\net6.0\AssemblerSortLab2.dll
+C:\SD\SystemProgrammingLabs\AssemblerLab1\AssemblerSortLab2\bin\Debug\net6.0\AssemblerSortLab2.pdb
+C:\SD\SystemProgrammingLabs\AssemblerLab1\AssemblerSortLab2\obj\Debug\net6.0\AssemblerSortLab2.csproj.AssemblyReference.cache
+C:\SD\SystemProgrammingLabs\AssemblerLab1\AssemblerSortLab2\obj\Debug\net6.0\AssemblerSortLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\SD\SystemProgrammingLabs\AssemblerLab1\AssemblerSortLab2\obj\Debug\net6.0\AssemblerSortLab2.AssemblyInfoInputs.cache
+C:\SD\SystemProgrammingLabs\AssemblerLab1\AssemblerSortLab2\obj\Debug\net6.0\AssemblerSortLab2.AssemblyInfo.cs
+C:\SD\SystemProgrammingLabs\AssemblerLab1\AssemblerSortLab2\obj\Debug\net6.0\AssemblerSortLab2.csproj.CoreCompileInputs.cache
+C:\SD\SystemProgrammingLabs\AssemblerLab1\AssemblerSortLab2\obj\Debug\net6.0\AssemblerSortLab2.dll
+C:\SD\SystemProgrammingLabs\AssemblerLab1\AssemblerSortLab2\obj\Debug\net6.0\refint\AssemblerSortLab2.dll
+C:\SD\SystemProgrammingLabs\AssemblerLab1\AssemblerSortLab2\obj\Debug\net6.0\AssemblerSortLab2.pdb
+C:\SD\SystemProgrammingLabs\AssemblerLab1\AssemblerSortLab2\obj\Debug\net6.0\AssemblerSortLab2.genruntimeconfig.cache
+C:\SD\SystemProgrammingLabs\AssemblerLab1\AssemblerSortLab2\obj\Debug\net6.0\ref\AssemblerSortLab2.dll
