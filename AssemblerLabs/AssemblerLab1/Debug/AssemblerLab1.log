@@ -1,0 +1,6 @@
+﻿  AssemblerLab1.cpp
+C:\SD\SystemProgrammingLabs\AssemblerLabs\AssemblerLab1\OperationClass.h(82,12): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+  OperationClass.cpp
+C:\SD\SystemProgrammingLabs\AssemblerLabs\AssemblerLab1\OperationClass.h(82,12): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+  Создание кода...
+  AssemblerLab1.vcxproj -> C:\SD\SystemProgrammingLabs\AssemblerLabs\Debug\AssemblerLab1.exe
