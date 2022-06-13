@@ -1,0 +1,54 @@
+﻿  SystemProgLab3.cpp
+C:\SD\SystemProgrammingLabs\AssemblerLabs\SystemProgLab3\SystemProgLab3.cpp(187,17): warning C4101: hdc: неиспользованная локальная переменная
+C:\SD\SystemProgrammingLabs\AssemblerLabs\SystemProgLab3\SystemProgLab3.cpp(189,17): warning C4101: ps: неиспользованная локальная переменная
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\d2d1helper.h(78,52): warning C4838: Преобразование из "Type" в "FLOAT" требует сужающего преобразования.
+          with
+          [
+              Type=LONG
+          ]
+C:\SD\SystemProgrammingLabs\AssemblerLabs\SystemProgLab3\SystemProgLab3.cpp(104): message : выполняется компиляция ссылки на экземпляр шаблон функции "D2D1::TypeTraits<LONG>::Point D2D1::Point2<LONG>(Type,Type)"
+          with
+          [
+              Type=LONG
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\d2d1helper.h(78,52): warning C4244: инициализация: преобразование "Type" в "FLOAT", возможна потеря данных
+          with
+          [
+              Type=LONG
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\d2d1helper.h(78,55): warning C4838: Преобразование из "Type" в "FLOAT" требует сужающего преобразования.
+          with
+          [
+              Type=LONG
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\d2d1helper.h(78,55): warning C4244: инициализация: преобразование "Type" в "FLOAT", возможна потеря данных
+          with
+          [
+              Type=LONG
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\d2d1helper.h(78,52): warning C4838: Преобразование из "Type" в "FLOAT" требует сужающего преобразования.
+          with
+          [
+              Type=int
+          ]
+C:\SD\SystemProgrammingLabs\AssemblerLabs\SystemProgLab3\SystemProgLab3.cpp(112): message : выполняется компиляция ссылки на экземпляр шаблон функции "D2D1::TypeTraits<int>::Point D2D1::Point2<int>(Type,Type)"
+          with
+          [
+              Type=int
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\d2d1helper.h(78,52): warning C4244: инициализация: преобразование "Type" в "FLOAT", возможна потеря данных
+          with
+          [
+              Type=int
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\d2d1helper.h(78,55): warning C4838: Преобразование из "Type" в "FLOAT" требует сужающего преобразования.
+          with
+          [
+              Type=int
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\d2d1helper.h(78,55): warning C4244: инициализация: преобразование "Type" в "FLOAT", возможна потеря данных
+          with
+          [
+              Type=int
+          ]
+  SystemProgLab3.vcxproj -> C:\SD\SystemProgrammingLabs\AssemblerLabs\Debug\SystemProgLab3.exe
