@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assembler_Sort_Lab2", "Asse
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SystemProgLab3", "SystemProgLab3\SystemProgLab3.vcxproj", "{514BAD61-FD9D-41E2-B522-42D05F9036CD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SystemProgLab4", "SystemProgLab4\SystemProgLab4.vcxproj", "{401198B8-A4D9-4016-92D8-EFE743457FCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{514BAD61-FD9D-41E2-B522-42D05F9036CD}.Release|x64.Build.0 = Release|x64
 		{514BAD61-FD9D-41E2-B522-42D05F9036CD}.Release|x86.ActiveCfg = Release|Win32
 		{514BAD61-FD9D-41E2-B522-42D05F9036CD}.Release|x86.Build.0 = Release|Win32
+		{401198B8-A4D9-4016-92D8-EFE743457FCE}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{401198B8-A4D9-4016-92D8-EFE743457FCE}.Debug|Any CPU.Build.0 = Debug|x64
+		{401198B8-A4D9-4016-92D8-EFE743457FCE}.Debug|x64.ActiveCfg = Debug|x64
+		{401198B8-A4D9-4016-92D8-EFE743457FCE}.Debug|x64.Build.0 = Debug|x64
+		{401198B8-A4D9-4016-92D8-EFE743457FCE}.Debug|x86.ActiveCfg = Debug|Win32
+		{401198B8-A4D9-4016-92D8-EFE743457FCE}.Debug|x86.Build.0 = Debug|Win32
+		{401198B8-A4D9-4016-92D8-EFE743457FCE}.Release|Any CPU.ActiveCfg = Release|x64
+		{401198B8-A4D9-4016-92D8-EFE743457FCE}.Release|Any CPU.Build.0 = Release|x64
+		{401198B8-A4D9-4016-92D8-EFE743457FCE}.Release|x64.ActiveCfg = Release|x64
+		{401198B8-A4D9-4016-92D8-EFE743457FCE}.Release|x64.Build.0 = Release|x64
+		{401198B8-A4D9-4016-92D8-EFE743457FCE}.Release|x86.ActiveCfg = Release|Win32
+		{401198B8-A4D9-4016-92D8-EFE743457FCE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
